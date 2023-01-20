@@ -1,0 +1,19 @@
+Plate,Time (ks),Condition,Inoculum,Concentration,Average,cfuPerMl
+Chamber 1,170.6,Electrode and PCA,P nitroreducens spreader,1.00E-03,17,1.70E+06
+Chamber 1,323.4,Electrode and PCA,P nitroreducens spreader,1.00E-02,13.5,1.35E+05
+Chamber 1,772.4,Electrode and PCA,P nitroreducens spreader,1.00E-01,7,7.00E+03
+Chamber 2,170.6,Electrode and PCA,P nitroreducens pointer,1.00E-03,21.5,2.15E+06
+Chamber 2,323.4,Electrode and PCA,P nitroreducens pointer,1.00E-02,71,7.10E+05
+Chamber 2,772.4,Electrode and PCA,P nitroreducens pointer,1.00E-01,131.5,1.32E+05
+Chamber 3,170.6,Electrode and PCA,PhzOx C,1.00E-03,30,3.00E+06
+Chamber 3,323.4,Electrode and PCA,PhzOx C,1.00E-03,30.5,3.05E+06
+Chamber 3,772.4,Electrode and PCA,PhzOx C,1.00E-04,70,7.00E+07
+Chamber 4,170.6,Electrode and PCA,PhzOx A,1.00E-03,36.5,3.65E+06
+Chamber 4,323.4,Electrode and PCA,PhzOx A,1.00E-03,31,3.10E+06
+Chamber 4,772.4,Electrode and PCA,PhzOx A,1.00E-04,85.5,8.55E+07
+Chamber 5,170.6,,Pnitroreducens pointer,1.00E-03,21.5,2.15E+06
+Chamber 5,323.4,,Pnitroreducens pointer,1.00E-02,61.5,6.15E+05
+Chamber 5,772.4,,Pnitroreducens pointer,1.00E-01,24,2.40E+04
+Chamber 6,170.6,,Pnitroreducens spreader,1.00E-03,15,1.50E+06
+Chamber 6,323.4,,Pnitroreducens spreader,1.00E-02,24.5,2.45E+05
+Chamber 6,772.4,,Pnitroreducens spreader,1.00E-01,5.5,5.50E+03
