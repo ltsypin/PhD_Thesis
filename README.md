@@ -6,3 +6,6 @@ bunch of Jupyter note books, corresponding to figures in the diss,
 sometimes comobining multiple figures into one notebook when they come
 from the same dataset analysis. I hope it is clear enough to be useful. 
 I'm happy to answer any questions.
+
+I fixed formatting issues using Inkscape, and used it to generate various 
+cartoons found in the thesis.
